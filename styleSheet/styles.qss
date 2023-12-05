@@ -1,0 +1,19 @@
+QWidget
+{
+  background-color: #170D09;
+  outline: none;
+}
+
+QSlider
+{
+    background: #000000;
+    border-radius: 5%;
+}
+
+QSlider::groove:vertical
+{
+}
+
+QSlider::handle:vertical {
+  background: #45D10D;
+}

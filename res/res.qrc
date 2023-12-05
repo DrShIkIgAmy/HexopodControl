@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../assets/joystick_pad.png</file>
+        <file>../assets/joystick_thumb.png</file>
+    </qresource>
+</RCC>
